@@ -6,6 +6,8 @@ Blue wires = ground
 Red wires = 5V power  
 Black wires = digital signal
 
+**Ignore the contradictory pin colors coming out of the buzzer.**
+
 ---
 
 ![alt text](https://github.com/PyhaMarkus/arduino-passive-buzzer/blob/master/pictures/buzzer_sketch_bb.png "Buzzer sketch")
