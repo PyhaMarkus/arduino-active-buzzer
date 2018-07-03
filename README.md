@@ -2,7 +2,7 @@
 
 
 
-![alt text](https://github.com/PyhaMarkus/arduino-active-buzzer/blob/master/pictures/buzzer_sketch_bb.png "Buzzer sketch")
+![alt text](https://github.com/PyhaMarkus/arduino-passive-buzzer/blob/master/pictures/buzzer_sketch_bb.png "Buzzer sketch")
 
 ---
 
