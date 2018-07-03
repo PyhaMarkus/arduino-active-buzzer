@@ -1,6 +1,10 @@
 # Control a passive buzzer for Arduino Uno with a button
 
-Arduino generates a tone for the passive buzzer which then repeats that tone based on the defined frequency. This particular buzzer model has two pins: ground and digital out. Use a 10K resistor for the digital pin before connecting to an Arduino. The LED requires a 220 or 330 ohm resistor as seen in the picture. Also the buttons ground pin is connected to a 100 ohm resistor.
+Arduino generates a tone for the passive buzzer which then repeats that tone based on the defined frequency. This particular buzzer model has two pins: ground and digital out. Use a 10K resistor for the digital pin before connecting to an Arduino. The LED requires a 220 or 330 ohm resistor as seen in the picture. Also the button's ground pin is connected to a 100 ohm resistor.
+
+Blue wires = ground
+Red wires = 5V power
+Black wires = digital signal
 
 ---
 
